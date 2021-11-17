@@ -32,4 +32,11 @@
 30. SSEQ	-   Finding a Spliced Motif	
 31. TRAN	-   Transitions and Transversions	
 32. TREE	-   Completing a Tree
-33. CAT     -   Catalan Numbers and RNA Secondary Structures
+33. CAT   -   Catalan Numbers and RNA Secondary Structures
+34. CORR	-   Error Correction in Reads	
+35. INOD	-   Counting Phylogenetic Ancestors	
+36. KMER	-   k-Mer Composition	
+37. KMP	  -   Speeding Up Motif Finding	
+38. LCSQ	-   Finding a Shared Spliced Motif	
+39. LEXV	-   Ordering Strings of Varying Length Lexicographically	
+40. MMCH	-   Maximum Matchings and RNA Secondary Structures
